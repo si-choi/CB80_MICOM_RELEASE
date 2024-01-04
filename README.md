@@ -1,0 +1,2 @@
+# CB80_MICOM_RELEASE
+CB80 마이컴 릴리즈
